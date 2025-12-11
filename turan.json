@@ -1,0 +1,34 @@
+{
+  "name": "Turan Crypto",
+  "symbol": "TURAN",
+  "description": "Turan Crypto Token – One Turan, One Token. Community-driven utility token for the Turan region on Solana.",
+  "image": "https://raw.githubusercontent.com/ramizsharifov-baku/-TuranCrypto-assets/main/turan_logo_round_512.png",
+  "external_url": "https://YOUR-WEBSITE.COM",
+  "attributes": [
+    {
+      "trait_type": "Theme",
+      "value": "Turan"
+    },
+    {
+      "trait_type": "Symbol",
+      "value": "Wolf, crescent and star"
+    },
+    {
+      "trait_type": "Slogan",
+      "value": "One Turan, One Token"
+    },
+    {
+      "trait_type": "Chain",
+      "value": "Solana"
+    }
+  ],
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/ramizsharifov-baku/-TuranCrypto-assets/main/turan_logo_round_512.png",
+        "type": "image/png"
+      }
+    ]
+  }
+}
